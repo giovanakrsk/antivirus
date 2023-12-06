@@ -1,0 +1,22 @@
+!!!   Relatorio do Ameacas  !!!
+
+McAfreeze Antivirus - Mantenha seu computador sempre frio!
+
+_________________________________
+Os arquivos de referencia foram:
+
+execucao-aula-teste.exe
+execucao-aula.exe
+script-aula-teste.bat
+script-aula.bat
+
+
+_______ Arquivos encontrados _____________________________________________________________________________________________________________________
+       Arquivo                                                     Endereco
+__________________________________________________________________________________________________________________________________________________
+execucao-aula-teste.exe                            C:/Users/Arthur/Documents/Trabalho Dev/Pasta de Teste\execucao-aula-teste.exe
+execucao-aula.exe                                  C:/Users/Arthur/Documents/Trabalho Dev/Pasta de Teste\execucao-aula.exe
+script-aula.bat                                    C:/Users/Arthur/Documents/Trabalho Dev/Pasta de Teste\Pasta\script-aula.bat
+
+
+_______ Arquivos removidos _______________________________________________________________________________________________________________________
